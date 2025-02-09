@@ -1,5 +1,6 @@
 Hello,
-I am Michael-Warstler, a mechanical engineer who pursued a computer programming certificate outside of my regular job. I aspire to solve interesting and complex problems through coding and engineering analysis. This account is used to store former and current projects to highlight coding knowledge, growth, and learning.
+
+I am Michael Warstler, a mechanical engineer who achieved a computer programming certificate outside of my regular job. I aspire to solve interesting and complex problems through coding and engineering analysis. This account is used to store former and current projects to highlight coding knowledge, growth, and learning.
 
 CONTACT INFORMATION:  warstler.michael@gmail.com
 
