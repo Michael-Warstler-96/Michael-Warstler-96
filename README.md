@@ -4,7 +4,7 @@ I am Michael Warstler, a mechanical engineer who achieved a computer programming
 
 CONTACT INFORMATION:  warstler.michael@gmail.com
 
-CODING LANGUAGES: C, C++ (only some for now), Java
+CODING LANGUAGES: Java, C#, Typescript, C, C++ (only some for now)
 
 HIGHLIGHTED SKILLS: Algorithms, Data Structures, Object-Oriented Design, Operating Systems, Software-Development, and Testing
 
